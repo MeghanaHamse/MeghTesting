@@ -1,0 +1,1 @@
+{"uuid":"1ad11da2-0262-41a5-8596-110dc8dccdac","name":"Tests.SearchTest","children":["7b840705-b83a-4086-866b-53fac59ede76"],"befores":[{"name":"doLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1787579871510,"stop":1787579877620}],"afters":[],"start":1787579862670,"stop":1787579918742}
